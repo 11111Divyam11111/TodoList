@@ -1,0 +1,9 @@
+1. Storing the task id
+2. Storing the task name
+3. storing the task status
+
+id : INT AUTOINCREMENTING PRIMARY KEY
+name : Varchar not null
+status : int not null default 0
+created at : timestamp
+updated at : timestamp
